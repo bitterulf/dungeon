@@ -9,6 +9,7 @@
   },
   "author": "Sebastian Schlender",
   "dependencies": {
-    "seedrandom": "^2.3.6"
+    "seedrandom": "^2.3.6",
+    "png-image": "^0.8.8"
   }
 }
